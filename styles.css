@@ -1,0 +1,58 @@
+cuerpo {
+  color de fondo: #dee5d4;
+}
+.cabecera {
+  pantalla:flexible;
+  alinear-elementos: centro;
+  justificar-contenido: centro;
+}
+.cabecera img {
+  ancho: 100px;
+  margen izquierdo: 50px;
+  margen derecho: 50px;
+}
+.cabecera p {
+  tamaño de fuente: 50px;
+  peso de fuente: negrita;
+  color: #001f3f;
+}
+.barnav {
+  tamaño de fuente: 25px;
+  margen izquierdo: 50px;
+}
+.barnav un {
+  margen derecho: 20px;
+}
+.inicio {
+  pantalla:flexible;
+  justificar-contenido: centro;
+  margen: 50px;
+}
+.contenido {
+  pantalla:flexible;
+  margen: 50px;
+}
+.contenido p {
+  tamaño de fuente: 40px;
+  color: #001f3f;
+  margen izquierdo: 30px;
+  margen derecho: 30px;
+}
+.contenido img {
+  ancho: 700px;
+  altura: 500px;
+}
+.inicio {
+  tamaño de fuente: 80px;
+  color: #001f3f;
+  peso de fuente: negrita;
+}
+Marquesina de inicio {
+  alinear texto: centro;
+}
+.sub {
+  margen: 50px;
+  color: #001f3f;
+  tamaño de fuente: 35px;
+  peso de fuente: negrita;
+}
